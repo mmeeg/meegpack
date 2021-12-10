@@ -7,4 +7,3 @@
 <p><span style="font-size: 10px;"><img src="https://cdn.discordapp.com/attachments/728398155141349416/918627400722575390/peeckpack_banner2.png" alt="meegpackbanner" width="1903" height="500" /></span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<
