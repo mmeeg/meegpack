@@ -1,1 +1,1 @@
-12/13/2021: Removed 3d Mushrooms in to fix conflict with animated mooshrooms in the optifine version, removed from both versions to keep consistancy 
+7/8/2022- Removed Vanilla version and Optifine version, its all 1 version now. ~ Removed uneeded features ~ changed menu text
